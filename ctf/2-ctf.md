@@ -1,6 +1,6 @@
 Cheese CTF
 
-Challange is to hack the machine and get the flags
+Challenge is to hack the machine and get the flags
 
 initially check with the #feroxbuster
 
