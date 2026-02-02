@@ -4,9 +4,15 @@ https://portswigger.net/web-security/access-control/lab-user-role-can-be-modifie
 
 need to work on the web based explotations to get more towards the Pentesting
 
-And addition to the Web vulnerabilities we also work parallelly Cryptography that tests your calculation ability 
+And addition to the Web vulnerabilities we also work parallel Cryptography that tests your calculation ability 
 
 Solving the CTF's need to be done and also the Bug bounty 
 
 SOC analyst level 1 preparation is going on....
+
+During the preparation for the cybersecurity the main challenges faced by me
+-can't able to keep the linux commands noted (know what to use but the syntax is missing)
+-no proper practice for what i have been preparing
+-correct analysis of the given problem need to be done properly
+-real life execution to be needed means we are going to work in larger organizations 
 
